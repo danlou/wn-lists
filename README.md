@@ -1,0 +1,1 @@
+For those times when loading WordNet from NLTK is an inconvenience
